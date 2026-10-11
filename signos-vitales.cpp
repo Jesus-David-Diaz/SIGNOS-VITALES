@@ -6,6 +6,7 @@ int main() {
     return 0;
 }
 
+
  std::string clasificarFrecuencia(int lpm)
 {
     if (lpm < 60)
@@ -15,3 +16,6 @@ int main() {
     else
         return "Frecuencia Normal";
 }
+
+double fahrenheitACelsius (double f);
+
